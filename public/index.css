@@ -5,4 +5,6 @@
 
 .inner-container {
   display: inline-block;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
