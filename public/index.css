@@ -10,3 +10,8 @@
   margin-bottom: 10px;
   margin-left: 3px;
 }
+
+.carousel-container {
+  width: 98vw;
+  margin: 10px;
+}
