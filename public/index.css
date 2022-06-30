@@ -1,0 +1,8 @@
+.page-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.inner-container {
+  display: inline-block;
+}
