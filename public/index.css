@@ -1,3 +1,6 @@
+body {
+  overflow: auto;
+}
 
 .page-container {
   display: flex;
@@ -14,4 +17,5 @@
 .carousel-container {
   width: 98vw;
   margin: 10px;
+  max-width: 1200px;
 }
